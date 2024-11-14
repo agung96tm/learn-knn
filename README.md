@@ -1,6 +1,6 @@
-KNN
+Learn KNN
 ========================================
-This repository contains a Python implementation of the K-Nearest Neighbors (KNN) algorithm.
+Python implementation of the K-Nearest Neighbors (KNN) algorithm.
 
 ## How To Run
 
